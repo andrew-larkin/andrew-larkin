@@ -1,6 +1,6 @@
-<code>![Header](https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.png)</code>
+![Header](https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.png)
 
-About me
+##Hi, I'm a beginner Java Developer
 
 Latest projects
 
