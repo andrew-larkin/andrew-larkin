@@ -1,6 +1,6 @@
 ![Header](https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.png)
 
-##Hi, I'm a beginner Java Developer
+## Hi, I'm a beginner Java Developer
 
 Latest projects
 
