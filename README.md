@@ -2,7 +2,11 @@
 
 ## Hi, I'm a beginner Java Developer
 
-Latest projects
+### The latest projects I'm working on
+* [Social Media Engine](https://github.com/andrew-larkin/socialMedia)
+* [Blog Engine](https://github.com/andrew-larkin/blog)
+* [Simple ToDoList](https://github.com/andrew-larkin/todolist)
+* [Web Parser with ForkJoinPool](https://github.com/andrew-larkin/websitemapWithForkJoin)
 
 ### Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=e38873)
@@ -12,6 +16,7 @@ Latest projects
 ![JPA](https://img.shields.io/badge/-JPA-000000?style=for-the-badge&logo=java&logoColor=90fd87)
 ![JUnit](https://img.shields.io/badge/-JUnit-000000?style=for-the-badge&logo=java&logoColor=275ecf)
 ![Maven](https://img.shields.io/badge/-Maven-000000?style=for-the-badge&logo=apache&logoColor=e38873)
+![Flyway](https://img.shields.io/badge/-Flyway-000000?style=for-the-badge&logo=flyway&logoColor=e38873)
 
 
 ### Follow me
