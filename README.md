@@ -1,4 +1,4 @@
-![Header] (https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.jpeg)
+<code>![Header] (https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.jpeg) </code>
 
 About me
 
