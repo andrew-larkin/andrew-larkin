@@ -1,12 +1,5 @@
 ![Header](https://github.com/andrew-larkin/andrew-larkin/blob/master/assets/github.png)
 
-## Hi, I'm a beginner Java Developer
-Я - начинающий backend-разработчик. Мой интерес к этому начался с оптимизации работы в Excel средствами VBA. 
-Спустя некоторое время, несколько проб в разных языках программирования и несколько небольших проектов,
-я прошел курсы по Java-разработке, получил опыт на стажировке по разработке движка для социальной сети. 
-Разрабатываю собственные проекты, постоянно обучаюсь новому, развиваюсь в выбранной области 
-и получаю от этого удовольствие.
-
 ### The latest projects I'm working on
 * [Social Media Engine](https://github.com/andrew-larkin/socialMedia)
 * [Blog Engine](https://github.com/andrew-larkin/blog)
